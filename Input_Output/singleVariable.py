@@ -1,0 +1,2 @@
+m = "Mayank"
+print(m)
