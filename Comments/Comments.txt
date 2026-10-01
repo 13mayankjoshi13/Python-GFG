@@ -1,0 +1,7 @@
+Comments in Python are used to add explanatory notes to code and are ignored during program execution.
+
+# This is a single-line comment
+
+""" Multi-line comment used
+print("Python Comments") """
+
