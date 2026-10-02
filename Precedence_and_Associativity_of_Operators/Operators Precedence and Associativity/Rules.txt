@@ -1,0 +1,9 @@
+100 + 200 / 10 - 3 * 10    Divide will happen first as / has Higher Precedence than + & -. It has the same precedence as * but Higher Associativity.
+
+100 +20 -3 * 10 Multiply will happen second as * has Higher Precedence than + & -. It has the same precedence as / but Lower Associativity.
+
+100 + 20 - 30  Addition will happen third as + has Lower Precedence than / & -. It has the same precedence as - but Higher Associativity.
+
+120 - 30   Subtract will happen last as - has Lower Precedence than / & *. It has the same precedence as + but Lower Associativity.
+
+90   We have got the solution for the equation
