@@ -1,0 +1,2 @@
+# Exponentiation is right-to-left
+print(2 ** 3 ** 2)
