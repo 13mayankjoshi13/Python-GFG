@@ -1,0 +1,5 @@
+# Division and multiplication
+print(100 / 10 * 10)  
+# Addition and subtraction
+print(5 - 2 + 3)      
+print(5 - (2 + 3))
