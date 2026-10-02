@@ -1,0 +1,22 @@
+Operator Precedence and Associativity List in Python
+Consider following list of operator precedence and associativity in Python. It shows all operators from highest precedence to lowest precedence.
+
+() : Parentheses (highest precedence) -> Associativity: Left to right
+x[index], x[index:index] : Subscription, slicing -> Associativity: Left to right
+await x : Await expression
+** : Exponentiation -> Associativity: Right to left
++x, -x, ~x : Unary plus, unary minus, bitwise NOT -> Associativity: Right to left
+*, @, /, //, % : Multiplication, matrix multiplication, division, floor division, remainder -> Associativity: Left to right
++, - : Addition and subtraction -> Associativity: Left to right
+<<, >> : Bitwise shifts -> Associativity: Left to right
+& : Bitwise AND -> Associativity: Left to right
+^ : Bitwise XOR -> Associativity: Left to right
+| : Bitwise OR -> Associativity: Left to right
+in, not in, is, is not, <, <=, >, >=, !=, == : Comparisons, membership, identity tests -> Associativity: Left to right
+not x : Boolean NOT -> Associativity: Right to left
+and : Boolean AND -> Associativity: Left to right
+or : Boolean OR -> Associativity: Left to right
+if-else : Conditional expression -> Associativity: Right to left
+lambda : Lambda expression
+:= : Assignment expression (Walrus operator) -> Associativity: Right to left
+Note: Parentheses () have highest precedence and can override default order. Some operators, like await and lambda, do not have associativity.
