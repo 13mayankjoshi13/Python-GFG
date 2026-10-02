@@ -1,0 +1,16 @@
+" /" is evaluated first as it is leftmost
+
+Now "*" is evaluated.
+
+We have got the solution
+for the equation
+
+/ & * both have the same precedence but left to right (LTR) associativity
+
+Operator Associativity
+
+100 / 10 * 10
+
+10 * 10
+
+100
