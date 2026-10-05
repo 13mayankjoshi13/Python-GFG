@@ -1,0 +1,2 @@
+tup = tuple('Geeks')
+print(tup)
