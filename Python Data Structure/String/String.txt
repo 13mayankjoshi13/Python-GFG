@@ -1,0 +1,7 @@
+Strings are sequence of characters written inside quotes. It can include letters, numbers, symbols and spaces. Python does not have a separate character type.
+
+A single character is treated as a string of length one.
+Strings are commonly used for text handling and manipulation.
+
+
+Strings are indexed sequences. Positive indices start at 0 from the left, negative indices start at -1 from the right
