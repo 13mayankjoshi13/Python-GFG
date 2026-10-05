@@ -1,0 +1,7 @@
+Return Statement
+Return is used to end a function and send a value back to the caller. It can return any data type, multiple values (packed into a tuple), or None if no value is given.
+
+Syntax
+return [expression]
+
+Parameters: expression is the value returned by the function. If no value is returned, it returns None by default.
