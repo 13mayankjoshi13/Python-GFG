@@ -1,0 +1,15 @@
+List is a built-in data structure used to store an ordered collection of items. They are dynamic, resizable and capable of storing multiple data types.
+
+List elements can be changed, updated, added, or removed after the list is created.
+Elements maintain the order in which they are inserted.
+Elements are accessed using their position, starting from index 0.
+
+
+
+Internal Representation of Lists
+Python list stores references to objects, not the actual values directly.
+
+The list keeps memory addresses of objects like integers, strings or booleans.
+Actual objects exist separately in memory.
+Modifying a mutable object inside a list changes the original object.
+Reassigning an immutable object creates a new object instead of changing the old one.
