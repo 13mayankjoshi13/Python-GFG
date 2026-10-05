@@ -1,0 +1,2 @@
+tup = ('Geeks', 'For')
+print(tup)
