@@ -1,0 +1,2 @@
+s = "ABC"
+del s
