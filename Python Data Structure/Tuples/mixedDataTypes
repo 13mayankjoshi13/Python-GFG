@@ -1,0 +1,2 @@
+tup = (5, 'Welcome', 7.5, True, [1, 2, 3], {'key': 'value'})
+print(tup)
