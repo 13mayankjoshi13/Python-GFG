@@ -1,0 +1,5 @@
+def function_name(parameters):
+    # Code to execute
+    return value  # Optional
+
+Note: Defining a function does not execute it. The function runs only when it is called using its name followed by parentheses.
