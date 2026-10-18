@@ -1,0 +1,3 @@
+Arrays
+Array is a collection of elements stored at contiguous memory locations, used to hold multiple values of the same data type. 
+Unlike Lists, which can store mixed types, arrays are homogeneous and require a typecode during initialization to define the data type.
