@@ -1,0 +1,6 @@
+Elements from beginning to a range use [:Index]
+Elements from end use [:-Index]
+Elements from specific Index till the end use [Index:]
+Elements within a range, use [Start Index:End Index]
+Print complete List, use [:].
+For Reverse list, use [::-1].
