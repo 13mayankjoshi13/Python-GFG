@@ -1,0 +1,9 @@
+NumPy arrays are a part of NumPy library, which is a tool for numerical computing. 
+Designed for high-performance operations on large datasets and support multi-dimensional arrays and matrices, making them suitable for complex mathematical computations.
+
+Multi-dimensional support: 
+Can handle multiple dimensions, making them suitable for matrix operations and advanced mathematical tasks.
+Broad broadcasting capabilities: 
+Allow operations between arrays of different shapes and sizes using broadcasting.
+Efficient storage and processing: 
+Uses optimized memory and provides faster performance compared to lists for numerical operations.
