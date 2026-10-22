@@ -1,0 +1,22 @@
+Four Pillars of Object-Oriented Programming (OOP) form the foundation for designing structured, reusable and maintainable software.
+
+1. Inheritance
+Inheritance allows a class (child class) to acquire properties and methods of another class (parent class). It supports hierarchical classification and promotes code reuse.
+
+2. Polymorphism
+Polymorphism means "same operation, different behavior." It allows functions or methods with the same name to work differently depending on the type of object they are acting upon.
+
+Types of Polymorphism: 
+                  |--------------Polymorphism in Python---------------|
+                  |                                                   |
+Compile-time Polymorphism                                 Runtime Polymorphism
+(mimicked using *args & ** kwargs)                            |     |        |
+    |                                                         |     |        |
+Method                                                     Method   Duck     Operator Overloading
+Overloading                                           Overriding   Typing
+                                                           
+3. Encapsulation
+Encapsulation is the bundling of data (attributes) and methods (functions) within a class, restricting access to some components to control interactions. A class is an example of encapsulation as it groups together member functions, variables and other related data in a single unit.
+
+4. Data Abstraction 
+Abstraction hides the internal implementation details while exposing only the necessary functionality. It helps focus on "what to do" rather than "how to do it."
