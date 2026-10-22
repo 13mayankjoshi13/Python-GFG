@@ -1,0 +1,5 @@
+1. Counting Elements: We can use count() method to count given item in array.
+
+2. Reversing Elements: In order to reverse elements of an array use reverse method.
+
+3. Extend Element: extend() function is used to attach an item from iterable to the end of the array. This method is used to add an array of values to the end of a given or existing array.
