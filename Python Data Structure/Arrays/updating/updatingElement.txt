@@ -1,0 +1,1 @@
+In order to update an element in the array we simply reassign a new value to the desired index we want to update.
