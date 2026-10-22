@@ -1,0 +1,5 @@
+An Object is an instance of a Class. It represents a specific implementation of the class and holds its own data. An object consists of:
+
+State: represented by the attributes and reflects the properties of an object.
+Behavior: represented by the methods of an object and reflects the response of an object to other objects.
+Identity: gives a unique name to an object and enables one object to interact with other objects.
